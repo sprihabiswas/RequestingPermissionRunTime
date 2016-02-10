@@ -1,7 +1,7 @@
 # RequestingPermissionRunTime
 * How to use the Android Support Library to check for, and request, permissions (Part of the series Mastering Android)
 
-* In this application the app seeks permission to use the internet and displays a toast message accordingly.
+* In this application the app seeks permission to read contacts on the user's device and displays a toast message accordingly.
 
 * If the device is running Android 5.1 or lower, or your app's target SDK is 22 or lower: If you list a dangerous permission in your manifest, the user has to grant the permission when they install the app; if they do not grant the permission, the system does not install the app at all.
 
